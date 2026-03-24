@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Shared/SmartHome.Contracts/SmartHome.Contracts.csproj" />
+  <Project Path="SmartHome.Api/SmartHome.Api.csproj" />
+</Solution>

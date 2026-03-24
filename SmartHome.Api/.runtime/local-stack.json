@@ -1,0 +1,15 @@
+{
+    "apiErr":  "C:\\Users\\Nhat\\source\\repos\\SmartHome.Api\\SmartHome.Api\\.runtime\\smarthome-run.err.log",
+    "alertFireOut":  "C:\\Users\\Nhat\\source\\repos\\SmartHome.Api\\SmartHome.Api\\.runtime\\alertfire-run.out.log",
+    "apiOut":  "C:\\Users\\Nhat\\source\\repos\\SmartHome.Api\\SmartHome.Api\\.runtime\\smarthome-run.out.log",
+    "alertFirePid":  14432,
+    "alertFireErr":  "C:\\Users\\Nhat\\source\\repos\\SmartHome.Api\\SmartHome.Api\\.runtime\\alertfire-run.err.log",
+    "apiPid":  15256,
+    "recorderPid":  null,
+    "mqttPort":  1883,
+    "startedAtUtc":  "2026-03-11T07:31:01.9847317Z",
+    "apiBase":  "http://127.0.0.1:7156",
+    "alertFireIngestApiKey":  "DEV_ONLY_CHANGE_ME",
+    "alertFireBase":  "http://127.0.0.1:5020",
+    "gatewayPid":  3684
+}

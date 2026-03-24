@@ -1,0 +1,12 @@
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\bin\Debug\net8.0\SmartHome.Contracts.deps.json
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\bin\Debug\net8.0\SmartHome.Contracts.dll
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\bin\Debug\net8.0\SmartHome.Contracts.pdb
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.AssemblyInfoInputs.cache
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.AssemblyInfo.cs
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.sourcelink.json
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.dll
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\refint\SmartHome.Contracts.dll
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\SmartHome.Contracts.pdb
+C:\Users\Nhat\source\repos\SmartHome.Api\Shared\SmartHome.Contracts\obj\Debug\net8.0\ref\SmartHome.Contracts.dll
